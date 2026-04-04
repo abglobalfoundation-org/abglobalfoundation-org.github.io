@@ -1,7 +1,7 @@
 +++
 date = '2025-11-04T10:11:28+05:30'
 draft = false
-title = 'Projects of Amarbelanand Foundation'
+title = 'Projects of A B Global Foundation'
 +++
 
 > Serving the Divine in Every Being  

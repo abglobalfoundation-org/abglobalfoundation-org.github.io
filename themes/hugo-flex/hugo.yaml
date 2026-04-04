@@ -16,7 +16,7 @@ params:
   width: 42rem # Any length in CSS syntax / leave empty to span page
   divider: \2500\2500 # Any string in CSS syntax / leave empty for no divider
   footer: >- # HTML spaces (&#32;) are needed before HTML elements
-    Copyright © 2025, Amarbelanand Foundation. All rights reserved.
+    Copyright © 2025, Copyright © 2026, A B Global Foundation. All rights reserved.
   rss: To subscribe to this RSS feed, copy its address and paste it into your
     favorite feed reader.
   favicon: false # Set to true to add a link to the favicon.ico

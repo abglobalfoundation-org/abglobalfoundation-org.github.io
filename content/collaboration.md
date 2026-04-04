@@ -22,12 +22,12 @@ We seek your kind patronage to transform lives through education, healthcare, an
 
 We invite you to join our mission of bringing hope and opportunities to those in need. Your kind donation will help provide education for underprivileged children, healthcare for struggling families, and livelihood support for communities. Even a small contribution can make a big difference—changing lives, uplifting families, and creating brighter futures. Together, we can bridge gaps, reduce inequalities, and spread compassion. This is not just about giving money, but about becoming part of a collective effort to build a better tomorrow. Your support matters—because every act of kindness brings us closer to a world of dignity and hope.
 
-For collaboration, contact us at Amarbelanand Foundation, C/o- At Amtyapur, Dist.: Satara, Matyapur, Gove, Satara, Satara- 415015, Maharashtra, India, Contact Number/Email:
+For collaboration, contact us at A B Global Foundation, C/o- At Amtyapur, Dist.: Satara, Matyapur, Gove, Satara, Satara- 415015, Maharashtra, India,
 
 Thank you
 
 ##### **Contact us:**
 
-Amarbelanand Foundation
+A B Global Foundation
 
-**Email:** contact@amarbelanandfoundation.org
+**Email:** abglobalfoundation23@gmail.com
